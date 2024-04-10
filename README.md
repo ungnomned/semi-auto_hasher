@@ -1,6 +1,6 @@
 # semi-auto_hasher WINDOWS ONLY
-#Python must be installed for this program to work
-This incredibly simple program is meant to help speed up the process of verifying hashes mosstly by eliminating the manual work of comparing them with your eyes
+Python must be installed for this program to work.
+This incredibly simple program is meant to help speed up the process of verifying hashes mosstly by eliminating the manual work of comparing them with your eyes.
 simply enter: the path of the item you want to generate a hash for,  
               the type of hash you want to generate,  
               the trusted hash you obtained from the website you downloaded from, 

@@ -3,7 +3,7 @@
 This incredibly simple program is meant to partially automate up the process of 
 verifying hashes mostly by eliminating the manual work of comparing them with your eyes.
 
-# simply enter: 
+simply enter: 
 the path of the item you want to generate a hash for.
 the type of hash you want to generate.
 the trusted hash you obtained from the website you downloaded from.

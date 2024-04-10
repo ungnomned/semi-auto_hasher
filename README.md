@@ -3,12 +3,13 @@
 This incredibly simple program is meant to partially automate up the process of 
 verifying hashes mostly by eliminating the manual work of comparing them with your eyes.
 
-simply enter: 
-the path of the item you want to generate a hash for, 
-the type of hash you want to generate,  
-the trusted hash you obtained from the website you downloaded from, 
-              
+# simply enter: 
+the path of the item you want to generate a hash for.
+the type of hash you want to generate.
+the trusted hash you obtained from the website you downloaded from.
+
 The program will generate a hash and compare it to the one you pasted in and then send either a green light for hashes that match or red light for hashes that don't.
+
 #INSTRUCTIONS (Windows Only)
 
 1. Download the hasher.py file and save to desired location
